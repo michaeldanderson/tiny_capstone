@@ -1,0 +1,11 @@
+{
+  id:@mushroom.id,
+  name: @mushroom.name,
+  kingdom: @mushroom.kingdom,
+  division: @mushroom.division,
+  order: @mushroom.order,
+  family: @mushroom.family,
+  genus: @mushroom.genus,
+  species: @mushroom.species,
+  price:@mushroom.price,
+}
