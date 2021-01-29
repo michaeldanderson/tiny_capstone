@@ -10,3 +10,4 @@ sup = Supplier.new({brand: "Parliament", email: "Parliament_Shroomery@fakeemail.
 sup.save
 sup = Supplier.new({brand: "Russian Blue", email: "Russian_Blue@fakeemail.com", phone_number: "505-555-5551"})
 sup.save
+
